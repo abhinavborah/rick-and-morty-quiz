@@ -72,7 +72,7 @@ if(score<=3){
   console.log(chalk.red("\nYou barely watch the show.\n"));
 }
 else if(score<=6){
-  console.log(chalk.orange("\nYou casually watch the show.\n"));
+  console.log(chalk.magenta("\nYou casually watch the show.\n"));
 }
 else if(score<=9){
   console.log(chalk.yellow("\nYou enjoy the show!\n"));
